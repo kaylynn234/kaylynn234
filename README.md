@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋
+
+<samp>
+    I'm Kaylynn, in case you hadn't realised that already.
+    I like to program in my spare time but I'm not very good at it. I guess I get to call myself a full-stack developer since I made a website once?
+    <br></br>
+    If for some reason you weant to talk to me, you can find me on discord or twitter with the handles listed on the left - they are on the left, right?
+</samp>
 
 <!--
 **kaylynn234/kaylynn234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
