@@ -1,23 +1,7 @@
 ### 👋
 
 <samp>
-    I'm Kaylynn, in case you hadn't realised that already.
-    I like to program in my spare time but I'm not very good at it. I guess I get to call myself a full-stack developer since I made a website once?
-    <br></br>
-    If for some reason you want to talk to me, you can find me on discord at Kaylynn#0001 or with the twitter handle on the left.
+    I'm Kaylynn! You can find me on discord at Kaylynn#0001 or with the twitter handle on the left if you want to have a chat.
+    <br>I write code in my spare time, and if you're interested in that, you can find records of such indecent endeavours here.
+    </br>
 </samp>
-
-<!--
-**kaylynn234/kaylynn234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
