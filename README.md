@@ -1,5 +1,3 @@
-### 👋
+### Hey there!
 
-I'm Kaylynn! You can find me on discord at Kaylynn#0001 or with the twitter handle on the left if you want to have a chat.
-<br>I write code in my spare time, and if you're interested in that, you can find records of such indecent endeavours here.
-</br>
+I'm Kaylynn! This is where most of the code I write ends up, and you can learn more about me [on my website](https://kaylynn.gay/about).
